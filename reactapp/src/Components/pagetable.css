@@ -1,0 +1,9 @@
+.table_position { margin-left: 121px; margin-top: 50px;width:1113px }
+@media only screen and (max-width: 600px) {
+    .table_position { 
+        margin-left:auto;
+        margin-top: auto;
+        width:100%;
+        overflow-x:hidden 
+    }
+}

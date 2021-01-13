@@ -1,0 +1,15 @@
+.github_button{
+    padding: 18px 44px 12px 37px !important;
+}
+.linkedin_button{
+    padding: 18px 44px 12px 37px !important;
+}
+.github_button:hover{
+    color:grey;
+}
+a {
+    color: #141a21 !important
+}
+.icon_size{
+    font-size: 36px;
+}

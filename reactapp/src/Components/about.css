@@ -1,0 +1,94 @@
+
+.header_styles {
+    height: 300px;
+    background-image: url("../images/codethinkingsvg.svg");
+    background-repeat: no-repeat;
+    background-size: 566px 76%;
+    background-position: right bottom;
+
+}
+.react_logo{
+    width: 60%
+}
+.headertext_styles{
+    font-size: 71px;
+    padding-top:10%;
+    font-family: 'Roboto', sans-serif;
+    transition: padding-top 3s;
+    text-align:center
+}
+.redux_logo{
+    width:20%
+}
+.headertext_styles:hover{
+    padding-top: 6%;
+}
+.react_text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 53px;
+    margin-left: 24%;
+}
+.nodejs_logo{
+    width: 50%;
+    overflow: hidden;
+    margin-left: 24%
+}
+.redux_text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 53px;
+    text-align: center;
+}
+.redux_logo{
+    width:30%
+}
+.expressjs_row{
+    font-family: 'Roboto', sans-serif;
+    font-size: 53px;
+    text-align: center;
+}
+.nodejs_text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 53px;
+    text-align: center;
+}
+.express_logo{
+    width: 56%;
+}
+.expressjs_row{
+    
+    padding-top: 3%;
+    background: #e4e4e4;
+}
+.reason_text{
+    margin-left: 22%;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    text-align: initial
+}
+.redux_reason_text{
+    margin-left: 3%;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    text-align: initial
+}
+.mongodb_text{
+    font-family: 'Roboto', sans-serif;
+    font-size: 53px;
+    text-align: center;
+}
+.mongodb_logo{
+    width: 66%;
+}
+.nodejs_row{
+    width: 100%;
+    padding-top: 3%;
+    background: #e4e4e4;
+}
+[data-aos][data-aos][data-aos-duration="400"], body[data-aos-duration="400"] [data-aos] {
+    transition-duration: 0.9s !important;
+}
+@media only screen and (max-width: 600px) {
+  .headertext_styles{
+        font-size: 40px;
+    }
+}

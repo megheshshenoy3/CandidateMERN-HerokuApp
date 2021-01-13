@@ -1,0 +1,18 @@
+.navbar_properties{
+    height: 50px;
+}
+.navbar_text{
+    font-family:Montserrat;
+    font-size:23px
+}
+.navbartext_links{
+   margin-left: 175% !important;
+}
+.gapbetween_links {
+    margin-left: 14px !important;
+}
+@media screen and (max-width: 600px) {
+  .navbartext_links{
+   margin-left: 0% !important;
+}
+}

@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.14307042.chunk.css",
+    "main.js": "/static/js/main.c417870a.chunk.js",
+    "main.js.map": "/static/js/main.c417870a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.48fe03d4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.48fe03d4.js.map",
+    "static/css/2.11829350.chunk.css": "/static/css/2.11829350.chunk.css",
+    "static/js/2.c36ced11.chunk.js": "/static/js/2.c36ced11.chunk.js",
+    "static/js/2.c36ced11.chunk.js.map": "/static/js/2.c36ced11.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.13f843e47215f73fd2ea484a68b6f36f.js": "/precache-manifest.13f843e47215f73fd2ea484a68b6f36f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/static/css/2.11829350.chunk.css.map",
+    "static/css/main.14307042.chunk.css.map": "/static/css/main.14307042.chunk.css.map",
+    "static/js/2.c36ced11.chunk.js.LICENSE.txt": "/static/js/2.c36ced11.chunk.js.LICENSE.txt",
+    "static/media/about.css": "/static/media/codethinkingsvg.61a4c685.svg",
+    "static/media/expressjs.svg": "/static/media/expressjs.0fb30b49.svg",
+    "static/media/feedsvg.svg": "/static/media/feedsvg.93bb6278.svg",
+    "static/media/mongodb.svg": "/static/media/mongodb.2985235d.svg",
+    "static/media/nodejs.svg": "/static/media/nodejs.54d0b0ec.svg",
+    "static/media/reactlogo.svg": "/static/media/reactlogo.e56ab6de.svg",
+    "static/media/reduxlogo.svg": "/static/media/reduxlogo.5c7392a9.svg",
+    "static/media/terralogic.svg": "/static/media/terralogic.c3b2f2e4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48fe03d4.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.c36ced11.chunk.js",
+    "static/css/main.14307042.chunk.css",
+    "static/js/main.c417870a.chunk.js"
+  ]
+}

@@ -1,0 +1,185 @@
+.form_style{
+    width: 100%;
+    background: #ece8e8;
+    border-radius: 19px;
+    box-shadow: 6px 0 6px rgb(0 0 0 / 27%);
+    margin-top: 4%;
+    height:100%
+}
+.text_box{
+    border-radius: 5px;
+    height: 43px;
+    width: 100%;
+    resize: both;
+}
+.label_text{
+    margin-left: -124px;
+}
+.experience_text{
+    margin-left: -138px;
+}
+.currentcompany_text{
+    margin-left: -91px;
+}
+.skillset_text{
+    margin-left: -161px;
+}
+.noticeperiod_text{
+    margin-left: -119px;
+}
+.evaluationfeedback_text{
+    margin-left: -69px;
+}
+.ctc_text{
+    margin-left: -178px;
+}
+.ectc_text{
+    margin-left: -172px;
+}
+.Only label {
+    display: inline-block;
+    margin-bottom: .5rem;
+    color: #909090;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    text-transform: uppercase;
+    outline:none
+}
+.remarks_text{
+    margin-left: -150px
+}
+.error_text{
+    color: red;
+    font-size: 11px;
+}
+.svg_image{
+    width: 72%;
+    margin-left: 22%;
+    margin-top: 17%;
+
+}
+.experience_questionmark{
+    margin-top: -5%;
+}
+.experience_textbox{
+    margin-top: 3px;
+}
+
+
+.notice_flex_block_{
+    margin-top: -13%;
+}
+input:focus, textarea:focus, select:focus{
+    outline: none;
+}
+input{
+    border:none;
+    border-bottom: 1px solid;
+}
+.skillset_warning{
+    color: red;
+    font-size: 12px;
+}
+.skilldisplay_block{
+    border: 1px solid;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    height: 142px;
+    margin-left: 2%;
+    width: 457px;
+}
+.skillset_box{
+    font-family: Roboto,sans-serif;
+    font-size: 13px;
+    background-color: rgb(238, 238, 238);
+    width: 50px;
+    padding: 11px 20px;
+    border-radius: 6px;
+    color: #868686;
+    font-weight: 400;
+    width:fit-content;
+}
+.pencil_font:hover{
+    font-size:20px;
+}
+.pencil_font{
+    font-size: 15px;
+}
+.form_style_2{
+    width: 100%;
+    background: white;
+   
+    margin-top: 4%;
+    border-radius: 19px;
+    height:100% ;
+    padding-bottom: 3%;
+    box-shadow:
+  0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+  0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+  0 12.5px 10px rgba(0, 0, 0, 0.06),
+  0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+  0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+  0 100px 80px rgba(0, 0, 0, 0.12)
+;
+
+   
+}
+.Company_nametextbox_design{
+
+    width: 94%;
+}
+.company_design_textbox{
+    width:89%;
+
+}
+.fifthrow{
+    width: 70px;
+}
+.notice_block{
+    
+    margin-left: 3%;
+}
+.dropdown_2{
+    margin-left: 16% !important;
+    margin-top: 14% !important;
+    width:100% !important;
+}
+.candidate_text{
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: 550;
+    color: #50b950;
+    padding-top:6%
+}
+@media only screen and (max-width: 600px) {
+    .dropdown_2{
+        margin-left: 0% !important;
+        margin-top: 7% !important;
+        width:100% !important;
+    }
+}
+
+.inputext_design:focus {
+    border:none!important;
+}
+.input:focus{
+    outline:none
+}
+    
+
+@media only screen and (max-width: 600px) {
+    .skilldisplay_block{
+        width: 280px;
+    }
+    .notice_flex_block_{
+        margin-top: 0%;
+    }
+    .notice_block{
+        /* margin-left: -1%; */
+        margin-left: 0%;
+    }
+    .experience_textbox{
+        margin-left: 4%;
+    }
+  }
